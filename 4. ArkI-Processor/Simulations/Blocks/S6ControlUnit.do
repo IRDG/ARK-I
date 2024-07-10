@@ -1,0 +1,61 @@
+onerror {resume}
+vsim work.s6controlunittestprotocol
+quietly WaveActivateNextPane {} 0
+add wave -noupdate -divider Input
+add wave -noupdate -color {Cornflower Blue} -label Instruction -radix hexadecimal -childformat {{/s6controlunittestprotocol/X1/Instruction(31) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(30) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(29) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(28) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(27) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(26) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(25) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(24) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(23) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(22) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(21) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(20) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(19) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(18) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(17) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(16) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(15) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(14) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(13) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(12) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(11) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(10) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(9) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(8) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(7) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(6) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(5) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(4) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(3) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(2) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(1) -radix hexadecimal} {/s6controlunittestprotocol/X1/Instruction(0) -radix hexadecimal}} -subitemconfig {/s6controlunittestprotocol/X1/Instruction(31) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(30) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(29) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(28) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(27) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(26) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(25) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(24) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(23) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(22) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(21) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(20) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(19) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(18) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(17) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(16) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(15) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(14) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(13) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(12) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(11) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(10) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(9) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(8) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(7) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(6) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(5) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(4) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(3) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(2) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(1) {-color {Cornflower Blue} -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/Instruction(0) {-color {Cornflower Blue} -height 15 -radix hexadecimal}} /s6controlunittestprotocol/X1/Instruction
+add wave -noupdate -color {Cornflower Blue} -label Mps -radix hexadecimal /s6controlunittestprotocol/X1/Mps
+add wave -noupdate -color {Cornflower Blue} -label Mie -radix hexadecimal /s6controlunittestprotocol/X1/Mie
+add wave -noupdate -color {Cornflower Blue} -label Mnev -radix hexadecimal /s6controlunittestprotocol/X1/Mnev
+add wave -noupdate -color {Cornflower Blue} -label DataDependency /s6controlunittestprotocol/X1/DfuDataDependency
+add wave -noupdate -color {Cornflower Blue} -label BranchResult /s6controlunittestprotocol/X1/BranchResult
+add wave -noupdate -color {Cornflower Blue} -label IrqX /s6controlunittestprotocol/X1/IrqX
+add wave -noupdate -color {Cornflower Blue} -label CacheMiss /s6controlunittestprotocol/X1/CacheMiss
+add wave -noupdate -color {Cornflower Blue} -label Rst /s6controlunittestprotocol/X1/Rst
+add wave -noupdate -color {Cornflower Blue} -label Clk /s6controlunittestprotocol/X1/Clk
+add wave -noupdate -divider Output
+add wave -noupdate -color Orange -label ControlWord -radix hexadecimal -childformat {{/s6controlunittestprotocol/X1/ControlWord.DecStage -radix hexadecimal} {/s6controlunittestprotocol/X1/ControlWord.AluStage -radix hexadecimal} {/s6controlunittestprotocol/X1/ControlWord.MStage -radix hexadecimal} {/s6controlunittestprotocol/X1/ControlWord.WbStage -radix hexadecimal} {/s6controlunittestprotocol/X1/ControlWord.InstId -radix hexadecimal}} -expand -subitemconfig {/s6controlunittestprotocol/X1/ControlWord.DecStage {-color Orange -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/ControlWord.AluStage {-color Orange -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/ControlWord.MStage {-color Orange -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/ControlWord.WbStage {-color Orange -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/ControlWord.InstId {-color Orange -height 15 -radix hexadecimal}} /s6controlunittestprotocol/X1/ControlWord
+add wave -noupdate -color Orange -label PcMode -radix hexadecimal /s6controlunittestprotocol/X1/PcMode
+add wave -noupdate -color Orange -label ClkConfig -radix hexadecimal /s6controlunittestprotocol/X1/ClkConfig
+add wave -noupdate -color Orange -label ExcCtrlWord -radix hexadecimal -childformat {{/s6controlunittestprotocol/X1/ExcCtrlWord.ExcPcWrEna -radix hexadecimal} {/s6controlunittestprotocol/X1/ExcCtrlWord.ExcCsrWrEna -radix hexadecimal} {/s6controlunittestprotocol/X1/ExcCtrlWord.ExcCsrData -radix hexadecimal} {/s6controlunittestprotocol/X1/ExcCtrlWord.ExcCsrAddress -radix hexadecimal} {/s6controlunittestprotocol/X1/ExcCtrlWord.CycleMepc -radix hexadecimal} {/s6controlunittestprotocol/X1/ExcCtrlWord.ExcMemRd -radix hexadecimal} {/s6controlunittestprotocol/X1/ExcCtrlWord.ExcAluOp -radix hexadecimal}} -expand -subitemconfig {/s6controlunittestprotocol/X1/ExcCtrlWord.ExcPcWrEna {-color Orange -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/ExcCtrlWord.ExcCsrWrEna {-color Orange -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/ExcCtrlWord.ExcCsrData {-color Orange -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/ExcCtrlWord.ExcCsrAddress {-color Orange -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/ExcCtrlWord.CycleMepc {-color Orange -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/ExcCtrlWord.ExcMemRd {-color Orange -height 15 -radix hexadecimal} /s6controlunittestprotocol/X1/ExcCtrlWord.ExcAluOp {-color Orange -height 15 -radix hexadecimal}} /s6controlunittestprotocol/X1/ExcCtrlWord
+add wave -noupdate -color Orange -label BranchType -radix hexadecimal /s6controlunittestprotocol/X1/BranchType
+add wave -noupdate -color Orange -label BpuMode -radix hexadecimal /s6controlunittestprotocol/X1/BpuMode
+add wave -noupdate -color Orange -label GprRs1 -radix unsigned /s6controlunittestprotocol/X1/GprRsX1
+add wave -noupdate -color Orange -label GprRs2 -radix unsigned /s6controlunittestprotocol/X1/GprRsX2
+add wave -noupdate -color Orange -label GprRd -radix unsigned /s6controlunittestprotocol/X1/GprRdX
+add wave -noupdate -color Orange -label DfuMode -radix hexadecimal /s6controlunittestprotocol/X1/DfuMode
+add wave -noupdate -color Orange -label PipelineMode -radix hexadecimal /s6controlunittestprotocol/X1/PipelineMode
+add wave -noupdate -color Orange -label AckX /s6controlunittestprotocol/X1/AckX
+add wave -noupdate -divider {Finite State Machine}
+add wave -noupdate -color {Medium Orchid} -label State /s6controlunittestprotocol/X1/CtrlFsm/PrevState
+add wave -noupdate -color {Medium Orchid} -label Exception /s6controlunittestprotocol/X1/CtrlFsm/Exception
+add wave -noupdate -color {Medium Orchid} -label Mnev(0) /s6controlunittestprotocol/X1/CtrlFsm/MNEV(0)
+add wave -noupdate -color {Medium Orchid} -label Mie(11) /s6controlunittestprotocol/X1/CtrlFsm/Mie(11)
+add wave -noupdate -color {Medium Orchid} -label MnevLevel /s6controlunittestprotocol/X1/CtrlFsm/MnevLevel
+add wave -noupdate -color {Medium Orchid} -label CurntPriority /s6controlunittestprotocol/X1/CtrlFsm/CurrentPriority
+add wave -noupdate -color {Medium Orchid} -label CausePriority /s6controlunittestprotocol/X1/CtrlFsm/CausePriority
+add wave -noupdate -divider MicroProgramMemory
+add wave -noupdate -color {Medium Aquamarine} -label OpCode /s6controlunittestprotocol/X1/uPM/OpCode
+add wave -noupdate -color {Medium Aquamarine} -label Funct3 /s6controlunittestprotocol/X1/uPM/Funct3
+add wave -noupdate -color {Medium Aquamarine} -label Funct7 /s6controlunittestprotocol/X1/uPM/Funct7
+add wave -noupdate -color {Medium Aquamarine} -label UnknownInst /s6controlunittestprotocol/X1/uPM/UnknownInst
+add wave -noupdate -color {Medium Aquamarine} -label BranchType /s6controlunittestprotocol/X1/uPM/BranchType
+add wave -noupdate -color {Medium Aquamarine} -label GprUsed /s6controlunittestprotocol/X1/uPM/GprUsed
+TreeUpdate [SetDefaultTree]
+WaveRestoreCursors {{Cursor 1} {1400000 ps} 0}
+quietly wave cursor active 1
+configure wave -namecolwidth 141
+configure wave -valuecolwidth 100
+configure wave -justifyvalue left
+configure wave -signalnamewidth 0
+configure wave -snapdistance 10
+configure wave -datasetprefix 0
+configure wave -rowmargin 4
+configure wave -childrowmargin 2
+configure wave -gridoffset 0
+configure wave -gridperiod 1000
+configure wave -griddelta 40
+configure wave -timeline 0
+configure wave -timelineunits ns
+update
+WaveRestoreZoom {1225563 ps} {1740404 ps}
+run 2000ns
