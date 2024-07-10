@@ -1,0 +1,117 @@
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 2017  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus Prime
+# Version 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+# Date created = 21:26:42  February 23, 2024
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		ArkIProcessor_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus Prime software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+set_global_assignment -name FAMILY "Cyclone V"
+set_global_assignment -name DEVICE 5CSEMA5F31C6
+set_global_assignment -name TOP_LEVEL_ENTITY ArkIProcessor
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 17.1.0
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "21:26:42  FEBRUARY 23, 2024"
+set_global_assignment -name LAST_QUARTUS_VERSION "17.1.0 Lite Edition"
+set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
+set_global_assignment -name MIN_CORE_JUNCTION_TEMP 0
+set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
+set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 256
+set_global_assignment -name EDA_SIMULATION_TOOL "ModelSim-Altera (VHDL)"
+set_global_assignment -name EDA_TIME_SCALE "1 ps" -section_id eda_simulation
+set_global_assignment -name EDA_OUTPUT_DATA_FORMAT VHDL -section_id eda_simulation
+set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "23 MM HEAT SINK WITH 200 LFPM AIRFLOW"
+set_global_assignment -name POWER_BOARD_THERMAL_MODEL "NONE (CONSERVATIVE)"
+set_global_assignment -name FLOW_ENABLE_RTL_VIEWER ON
+set_global_assignment -name TIMEQUEST_MULTICORNER_ANALYSIS ON
+set_global_assignment -name SMART_RECOMPILE ON
+set_global_assignment -name NUM_PARALLEL_PROCESSORS 16
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name VHDL_FILE "VHDL/Testbench/2-Core/CoreTestProtocol.vhd"
+set_global_assignment -name VHDL_FILE VHDL/ArkIProcessor.vhd
+set_global_assignment -name VHDL_FILE VHDL/ArkICore.vhd
+set_global_assignment -name MIF_FILE "VHDL/3-Memory/BinaryOuputII.mif"
+set_global_assignment -name MIF_FILE "VHDL/3-Memory/BinaryOuputI.mif"
+set_global_assignment -name QIP_FILE "VHDL/3-Memory/RamComponent/Ram2Port.qip"
+set_global_assignment -name VHDL_FILE "VHDL/3-Memory/MainMemory.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/2-Cache/CacheMemory.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/2-Cache/InstructionCache.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/2-Cache/InstructionMemorySlice.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/2-Cache/DataCache.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/2-Cache/DataMemorySlice.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/2-Cache/SelectLesser.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/2-Cache/LinearRateCounter.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/2-Cache/GralLimCounter.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/2-Cache/CacheOutputDecoder.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/2-Cache/AddressMemory.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/2-Cache/AddressReplacementControlUnit.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/CacheAndPeripheralAddressSolver.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/RiscVCore.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/9-OtherBlocks/LocalClockModule.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/9-OtherBlocks/GralCounter.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/8-DataForwardingUnit/DataForwardingUnit.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/7-BranchPredictionUnit/BranchPredictionUnit.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/7-BranchPredictionUnit/BpuFiniteStateMachine.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/6-ControlUnit/ControlUnit.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/6-ControlUnit/MicroProgramMemory.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/6-ControlUnit/ControlFiniteStateMachine.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/5-WriteBackStage/WriteBackStage.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/5-WriteBackStage/WriteBackSelectionBlock.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/4-MemoryStage/MemoryStage.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/4-MemoryStage/MemoryStageToWriteBackStage.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/4-MemoryStage/MemoryDataRegisterAndMemoryAddressRegister.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/3-AluStage/AluStage.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/3-AluStage/AluStageToMemoryStage.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/3-AluStage/Shifter.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/3-AluStage/PartialProduct.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/3-AluStage/Multiplier.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/3-AluStage/FullAdderHalfAdder.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/3-AluStage/ArithmeticLogicUnit.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/3-AluStage/AdderSubtractor.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/3-AluStage/Adder.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/2-RegisterReadStage/RegisterReadStage.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/2-RegisterReadStage/RegisterStageToAluStage.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/2-RegisterReadStage/GeneralPurposeRegisters.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/2-RegisterReadStage/ControlAndStatusRegisters.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/2-RegisterReadStage/Comparator.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/1-DecodeStage/DecodeStage.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/1-DecodeStage/DecodeStageToRegisterStage.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/1-DecodeStage/ProgramCounter.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/1-DecodeStage/InstructionRegister.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/1-Core/1-DecodeStage/ImmediateSelectionBlock.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/0-Packages/BasicPackage.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/0-Packages/CachePackage.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/0-Packages/AluPackage.vhd"
+set_global_assignment -name VHDL_FILE "VHDL/0-Packages/ProcessorPackage.vhd"
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top

@@ -1,0 +1,2458 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor
+Eadder
+Z1 w1691426200
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx4 work 12 basicpackage 0 22 NUI_27KZ>DgjPXNN8W3li1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/Adder.vhd
+Z7 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/Adder.vhd
+l0
+L26
+VjRHFhGUM3M^<=DMS>>;XV3
+!s100 ?c8J6g7in1SY05:=PnYa_1
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1717084372
+!i10b 1
+Z10 !s108 1717084372.000000
+Z11 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/Adder.vhd|
+Z12 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/Adder.vhd|
+!i113 1
+Z13 o-work work
+Z14 tExplicit 1 CvgOpt 0
+Acarrylookahead
+Z15 DEx4 work 18 fulladderhalfadder 0 22 DHU:<L930hD=n?4Tl93<91
+R2
+R3
+R4
+R5
+Z16 DEx4 work 5 adder 0 22 jRHFhGUM3M^<=DMS>>;XV3
+l98
+L92
+VFnXlhR6]8HFEjemg4]ZU51
+!s100 bN5G[Go90]L<3mz6mg<cU2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Aripplecarry
+R15
+R2
+R3
+R4
+R5
+R16
+l49
+L45
+VAD;kQT?]`0]?4amEbRn9J3
+!s100 AcmRVSU?:`;G^Z[BGM^cM3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Eaddersubtractor
+Z17 w1689026447
+R4
+R5
+R0
+Z18 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/AdderSubtractor.vhd
+Z19 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/AdderSubtractor.vhd
+l0
+L24
+VA30eUZLJ2YO6E_Sh9K5OS0
+!s100 lggP=g:zPD3E]hgR=dIVd1
+R8
+32
+Z20 !s110 1717084373
+!i10b 1
+Z21 !s108 1717084373.000000
+Z22 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/AdderSubtractor.vhd|
+Z23 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/AdderSubtractor.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R3
+R16
+R4
+R5
+Z24 DEx4 work 15 addersubtractor 0 22 A30eUZLJ2YO6E_Sh9K5OS0
+l47
+L43
+VmkW?f5]A6k99z;9X;O2RH3
+!s100 mPdohcAfLdRhLZE1UU0Ef1
+R8
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R13
+R14
+Eaddressmemory
+Z25 w1712733309
+Z26 DPx4 work 12 cachepackage 0 22 fF_lR;n8>12`k:N39@=VT1
+R2
+R3
+R4
+R5
+R0
+Z27 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/AddressMemory.vhd
+Z28 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/AddressMemory.vhd
+l0
+L27
+ViRaH?kZ5EI:mN6?R`jYBH0
+!s100 3ch4MX42PVZHdGjIfVY]51
+R8
+32
+Z29 !s110 1717084375
+!i10b 1
+Z30 !s108 1717084375.000000
+Z31 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/AddressMemory.vhd|
+Z32 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/AddressMemory.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R26
+R2
+R3
+R4
+R5
+Z33 DEx4 work 13 addressmemory 0 22 iRaH?kZ5EI:mN6?R`jYBH0
+l53
+L46
+V]dE:UFJ<l5F?Dhk6:RgiV2
+!s100 01ZdiGKUT>P@X>J@`XV5g2
+R8
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R13
+R14
+Eaddressreplacementcontrolunit
+Z34 w1713193124
+R26
+R2
+R3
+R4
+R5
+R0
+Z35 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/AddressReplacementControlUnit.vhd
+Z36 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/AddressReplacementControlUnit.vhd
+l0
+L27
+V1Lid6VAGgeo<D=SD0bLUg0
+!s100 CCGUCaHOPZ?lm=>kzCF3a0
+R8
+32
+R29
+!i10b 1
+R30
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/AddressReplacementControlUnit.vhd|
+Z38 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/AddressReplacementControlUnit.vhd|
+!i113 1
+R13
+R14
+Amainarch
+Z39 DEx4 work 14 grallimcounter 0 22 _BZc3O6MDNkbTgQKfN>461
+R26
+R2
+R3
+R4
+R5
+Z40 DEx4 work 29 addressreplacementcontrolunit 0 22 1Lid6VAGgeo<D=SD0bLUg0
+l79
+L53
+V@iD?Yn;eSSXkNbl_H7?=W2
+!s100 9DJUDm3ANkhO[OLi6BBmf2
+R8
+32
+R29
+!i10b 1
+R30
+R37
+R38
+!i113 1
+R13
+R14
+Palupackage
+R3
+R2
+R4
+R5
+Z41 w1689380793
+R0
+Z42 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/AluPackage.vhd
+Z43 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/AluPackage.vhd
+l0
+L20
+V4BPK^N[80^h9bf^z]gn>i1
+!s100 7_5I_Inez@X@RjZXU6XXJ1
+R8
+32
+R9
+!i10b 1
+R10
+Z44 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/AluPackage.vhd|
+Z45 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/AluPackage.vhd|
+!i113 1
+R13
+R14
+Bbody
+Z46 DPx4 work 10 alupackage 0 22 4BPK^N[80^h9bf^z]gn>i1
+R3
+R2
+R4
+R5
+l0
+L32
+V0E0ChaZUBjC8JSCQm=B561
+!s100 EiFL@V<M^@0_0aK>zO4:Y3
+R8
+32
+R9
+!i10b 1
+R10
+R44
+R45
+!i113 1
+R13
+R14
+Ealustage
+Z47 w1711573003
+R2
+R3
+R4
+R5
+R0
+Z48 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/AluStage.vhd
+Z49 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/AluStage.vhd
+l0
+L26
+VFSgS;z?ID4lLZS2AznNoS2
+!s100 gPl0Z;9WEm7U:FnVH<Q[12
+R8
+32
+R20
+!i10b 1
+R21
+Z50 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/AluStage.vhd|
+Z51 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/AluStage.vhd|
+!i113 1
+R13
+R14
+Amainarchitecture
+Z52 DEx4 work 21 alustagetomemorystage 0 22 1B2Y:PcHV[h];9Cg2A`hl1
+Z53 DEx4 work 19 arithmeticlogicunit 0 22 4[g52daVXPigkAcEg`71g1
+R2
+R3
+R4
+R5
+Z54 DEx4 work 8 alustage 0 22 FSgS;z?ID4lLZS2AznNoS2
+l61
+L53
+VClLVzz2H:PNFgf<X8Id0n3
+!s100 YVGCj?H;V@>Vd6K1S`4d80
+R8
+32
+R20
+!i10b 1
+R21
+R50
+R51
+!i113 1
+R13
+R14
+Ealustagetomemorystage
+Z55 w1711573199
+R2
+R3
+R4
+R5
+R0
+Z56 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/AluStageToMemoryStage.vhd
+Z57 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/AluStageToMemoryStage.vhd
+l0
+L26
+V1B2Y:PcHV[h];9Cg2A`hl1
+!s100 HL6Y8EJ@8MEmAZQcz>[z_1
+R8
+32
+R20
+!i10b 1
+R21
+Z58 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/AluStageToMemoryStage.vhd|
+Z59 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/AluStageToMemoryStage.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R3
+R4
+R5
+R52
+l55
+L45
+V=3jGhHZ;dkeHiGFaaA;`^3
+!s100 LXhj:zP1eC2iQOZl4QeJU3
+R8
+32
+R20
+!i10b 1
+R21
+R58
+R59
+!i113 1
+R13
+R14
+Earithmeticlogicunit
+Z60 w1713649075
+R2
+R3
+R4
+R5
+R0
+Z61 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/ArithmeticLogicUnit.vhd
+Z62 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/ArithmeticLogicUnit.vhd
+l0
+L26
+V4[g52daVXPigkAcEg`71g1
+!s100 ^UHW2fn8R`C?:2IUH^kNn1
+R8
+32
+R20
+!i10b 1
+R21
+Z63 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/ArithmeticLogicUnit.vhd|
+Z64 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/ArithmeticLogicUnit.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R24
+R46
+Z65 DEx4 work 10 multiplier 0 22 J:7X3n@K;lTofRNmWUo=C2
+Z66 DEx4 work 7 shifter 0 22 ]zU`N;GfPJA^e6GhKnaY61
+R2
+R3
+R4
+R5
+R53
+l78
+L50
+V:]R]PAQzhnSW4oTHXVOm30
+!s100 jjI=`MHeE:HQc^_VGeokN2
+R8
+32
+R20
+!i10b 1
+R21
+R63
+R64
+!i113 1
+R13
+R14
+Earkicore
+Z67 w1713308120
+R2
+R3
+R4
+R5
+R0
+Z68 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/ArkICore.vhd
+Z69 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/ArkICore.vhd
+l0
+L26
+V3A<7;Dcg8RN;QRcORmjn`2
+!s100 RJgKSz2RzUD8d1j>QOCY[1
+R8
+32
+Z70 !s110 1717084376
+!i10b 1
+Z71 !s108 1717084376.000000
+Z72 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/ArkICore.vhd|
+Z73 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/ArkICore.vhd|
+!i113 1
+R13
+R14
+Aarkicorearch
+Z74 DEx4 work 31 cacheandperipheraladdresssolver 0 22 8gz6V<S@Oja<0Ygei3OJ`1
+R26
+Z75 DEx4 work 11 cachememory 0 22 =6i>bem7?:7W4YZo=1W921
+Z76 DEx4 work 9 riscvcore 0 22 1NBz:<9nR_E=P45GN47Bn1
+R2
+R3
+R4
+R5
+Z77 DEx4 work 8 arkicore 0 22 3A<7;Dcg8RN;QRcORmjn`2
+l68
+L51
+VVEo_nmY@F<C8lT3Wn4A7Z0
+!s100 iiV6oVSKK1QagWCEBSai40
+R8
+32
+R70
+!i10b 1
+R71
+R72
+R73
+!i113 1
+R13
+R14
+Earkiprocessor
+Z78 w1713308147
+Z79 DPx4 work 16 processorpackage 0 22 @RM9nBWS1RF0jRIN9TQiT3
+R2
+R3
+R4
+R5
+R0
+Z80 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/ArkIProcessor.vhd
+Z81 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/ArkIProcessor.vhd
+l0
+L27
+VQ6PH`e5A5N4BCY@UWcCf@1
+!s100 P6GRSA3nK6j4f<NmI80YN0
+R8
+32
+R70
+!i10b 1
+R71
+Z82 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/ArkIProcessor.vhd|
+Z83 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/ArkIProcessor.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R77
+Z84 DEx4 work 10 mainmemory 0 22 TFSbB0T=8IRmN?>L13dkW3
+R79
+R2
+R3
+R4
+R5
+Z85 DEx4 work 13 arkiprocessor 0 22 Q6PH`e5A5N4BCY@UWcCf@1
+l54
+L47
+V8gf9oTaeY20MzFcW8Z_FB3
+!s100 gbiJCRT^Km^omM@9Hg1M51
+R8
+32
+R70
+!i10b 1
+R71
+R82
+R83
+!i113 1
+R13
+R14
+Pbasicpackage
+R2
+R4
+R5
+Z86 w1714076078
+R0
+Z87 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/BasicPackage.vhd
+Z88 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/BasicPackage.vhd
+l0
+L18
+VNUI_27KZ>DgjPXNN8W3li1
+!s100 k=oeUzI88O02eT8YOn2Z00
+R8
+32
+b1
+R9
+!i10b 1
+R10
+Z89 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/BasicPackage.vhd|
+Z90 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/BasicPackage.vhd|
+!i113 1
+R13
+R14
+Bbody
+R3
+R2
+R4
+R5
+l0
+L376
+VBM8b2gX@co2E^jK0VLeJ73
+!s100 GdW0QBZNF8H;U9Iz9?MT>1
+R8
+32
+R9
+!i10b 1
+R10
+R89
+R90
+!i113 1
+R13
+R14
+Ebpufinitestatemachine
+Z91 w1699168859
+R2
+R3
+R4
+R5
+R0
+Z92 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/7-BranchPredictionUnit/BpuFiniteStateMachine.vhd
+Z93 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/7-BranchPredictionUnit/BpuFiniteStateMachine.vhd
+l0
+L26
+V_kdHDo_;E]fmmMJcoTEEc1
+!s100 WPTb`o;_W?LPeX=^2>Y@R2
+R8
+32
+Z94 !s110 1717084374
+!i10b 1
+Z95 !s108 1717084374.000000
+Z96 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/7-BranchPredictionUnit/BpuFiniteStateMachine.vhd|
+Z97 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/7-BranchPredictionUnit/BpuFiniteStateMachine.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R3
+R4
+R5
+Z98 DEx4 work 21 bpufinitestatemachine 0 22 _kdHDo_;E]fmmMJcoTEEc1
+l54
+L43
+VGU@:93deiS4m8KHekG7<B0
+!s100 HeLFRg6SonP0joRZ1cKlD1
+R8
+32
+R94
+!i10b 1
+R95
+R96
+R97
+!i113 1
+R13
+R14
+Ebranchpredictionunit
+Z99 w1713302744
+R2
+R3
+R4
+R5
+R0
+Z100 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/7-BranchPredictionUnit/BranchPredictionUnit.vhd
+Z101 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/7-BranchPredictionUnit/BranchPredictionUnit.vhd
+l0
+L26
+VnDF0MzBKdz;P?TEJ9]BA82
+!s100 32A0N4W=^DQn>gA4BDA[50
+R8
+32
+R94
+!i10b 1
+R95
+Z102 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/7-BranchPredictionUnit/BranchPredictionUnit.vhd|
+Z103 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/7-BranchPredictionUnit/BranchPredictionUnit.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R98
+R2
+R3
+R4
+R5
+Z104 DEx4 work 20 branchpredictionunit 0 22 nDF0MzBKdz;P?TEJ9]BA82
+l88
+L54
+V4YOe]AgCfL>_nhHVT<X731
+!s100 f0;H7_90IH9O[fj:zYzf23
+R8
+32
+R94
+!i10b 1
+R95
+R102
+R103
+!i113 1
+R13
+R14
+Ecacheandperipheraladdresssolver
+Z105 w1712284848
+R3
+R2
+R4
+R5
+R0
+Z106 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/CacheAndPeripheralAddressSolver.vhd
+Z107 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/CacheAndPeripheralAddressSolver.vhd
+l0
+L27
+V8gz6V<S@Oja<0Ygei3OJ`1
+!s100 AhI8c34z=<>SbK_gJOB??2
+R8
+32
+R29
+!i10b 1
+R30
+Z108 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/CacheAndPeripheralAddressSolver.vhd|
+Z109 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/CacheAndPeripheralAddressSolver.vhd|
+!i113 1
+R13
+R14
+Amainarchitecture
+R3
+R2
+R4
+R5
+R74
+l63
+L55
+VG9a:;AjM^3A8n8GebhVPI1
+!s100 d5^C]l3Ejcj4Y^WCiGQC?2
+R8
+32
+R29
+!i10b 1
+R30
+R108
+R109
+!i113 1
+R13
+R14
+Ecachememory
+Z110 w1712784317
+R26
+R2
+R3
+R4
+R5
+R0
+Z111 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/CacheMemory.vhd
+Z112 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/CacheMemory.vhd
+l0
+L27
+V=6i>bem7?:7W4YZo=1W921
+!s100 daBhJO3_k`5iBdb1=aGA82
+R8
+32
+R29
+!i10b 1
+R30
+Z113 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/CacheMemory.vhd|
+Z114 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/CacheMemory.vhd|
+!i113 1
+R13
+R14
+Amainarch
+Z115 DEx4 work 9 datacache 0 22 Fcg=n2HU5e?ME<I:dO@Jj0
+Z116 DEx4 work 16 instructioncache 0 22 9]jJM9e:mjYo4`Re>bCVl3
+R40
+R26
+R2
+R3
+R4
+R5
+R75
+l70
+L52
+VZ7k4^:Qfli1CN=4RAQNF`2
+!s100 cSY?^kbf?B`g;<;MzBnZ32
+R8
+32
+R29
+!i10b 1
+R30
+R113
+R114
+!i113 1
+R13
+R14
+Ecacheoutputdecoder
+Z117 w1709960114
+R26
+R2
+R3
+R4
+R5
+R0
+Z118 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/CacheOutputDecoder.vhd
+Z119 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/CacheOutputDecoder.vhd
+l0
+L27
+VKUObF4INhE;OcF24aL:WN2
+!s100 7B5Of`lJ^jJ4nW]VCKhmZ1
+R8
+32
+R29
+!i10b 1
+R30
+Z120 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/CacheOutputDecoder.vhd|
+Z121 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/CacheOutputDecoder.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R26
+R2
+R3
+R4
+R5
+Z122 DEx4 work 18 cacheoutputdecoder 0 22 KUObF4INhE;OcF24aL:WN2
+l46
+L42
+VXTWZGNSPFb:]7iaLoN^X01
+!s100 NIISD27ejYmao]cA4Fl7Z2
+R8
+32
+R29
+!i10b 1
+R30
+R120
+R121
+!i113 1
+R13
+R14
+Pcachepackage
+R3
+R2
+R4
+R5
+Z123 w1712769602
+R0
+Z124 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/CachePackage.vhd
+Z125 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/CachePackage.vhd
+l0
+L20
+VfF_lR;n8>12`k:N39@=VT1
+!s100 O7D@aUZKS=?IGM=Se?LX@3
+R8
+32
+b1
+R9
+!i10b 1
+R10
+Z126 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/CachePackage.vhd|
+Z127 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/CachePackage.vhd|
+!i113 1
+R13
+R14
+Bbody
+R26
+R3
+R2
+R4
+R5
+l0
+L101
+VPZlf6_MaGeZkMJblfY=B43
+!s100 ANRPGPPNDW@MZ2;L0k_6i2
+R8
+32
+R9
+!i10b 1
+R10
+R126
+R127
+!i113 1
+R13
+R14
+Ecomparator
+Z128 w1698276336
+R3
+R2
+R4
+R5
+R0
+Z129 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/Comparator.vhd
+Z130 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/Comparator.vhd
+l0
+L27
+VzKAV1:D8gGIQ_H=?=z4PL1
+!s100 nO:=42Q?=Y5Peh5SXd?1Y3
+R8
+32
+R20
+!i10b 1
+R21
+Z131 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/Comparator.vhd|
+Z132 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/Comparator.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R3
+R2
+R4
+R5
+Z133 DEx4 work 10 comparator 0 22 zKAV1:D8gGIQ_H=?=z4PL1
+l44
+L42
+VN5de5i9ENBPg`iKRa[8i<1
+!s100 mlbYb<2AV;NzR^KfPhgc=2
+R8
+32
+R20
+!i10b 1
+R21
+R131
+R132
+!i113 1
+R13
+R14
+Econtrolandstatusregisters
+Z134 w1713829335
+R2
+R3
+R4
+R5
+R0
+Z135 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/ControlAndStatusRegisters.vhd
+Z136 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/ControlAndStatusRegisters.vhd
+l0
+L26
+VzX9U`kWMWl8dKN;Wz>Lkf2
+!s100 im]C3FoaEB>S>FRWJz4QK3
+R8
+32
+R20
+!i10b 1
+R21
+Z137 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/ControlAndStatusRegisters.vhd|
+Z138 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/ControlAndStatusRegisters.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R3
+R4
+R5
+Z139 DEx4 work 25 controlandstatusregisters 0 22 zX9U`kWMWl8dKN;Wz>Lkf2
+l132
+L60
+V8gzV_<;F1;iIM1HPl7G0>0
+!s100 ?TJ`1FjQHo:OgT7^^;Rmc0
+R8
+32
+R20
+!i10b 1
+R21
+R137
+R138
+!i113 1
+R13
+R14
+Econtrolfinitestatemachine
+Z140 w1715314220
+R3
+Z141 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z142 DPx6 altera 11 dffeas_pack 0 22 ?bDUB9Db2N8iCCALNL;CT3
+Z143 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z144 DPx6 altera 28 altera_primitives_components 0 22 c]VUMXSEi8Z`KM1bem<:B3
+R2
+R4
+R5
+R0
+Z145 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/6-ControlUnit/ControlFiniteStateMachine.vhd
+Z146 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/6-ControlUnit/ControlFiniteStateMachine.vhd
+l0
+L30
+Vb[26QXEbnSfj`mY8CDD4K1
+!s100 jFPg2JA7OMg;zeIjCfZQ73
+R8
+32
+R94
+!i10b 1
+R95
+Z147 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/6-ControlUnit/ControlFiniteStateMachine.vhd|
+Z148 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/6-ControlUnit/ControlFiniteStateMachine.vhd|
+!i113 1
+R13
+R14
+Afsmarch
+Z149 DEx4 work 11 gralcounter 0 22 HACL9BFTEBP5C7?g6=b@]3
+R3
+R141
+R142
+R143
+R144
+R2
+R4
+R5
+Z150 DEx4 work 25 controlfinitestatemachine 0 22 b[26QXEbnSfj`mY8CDD4K1
+l147
+L69
+V7NX;C]SdIGBVBlmGHHncU0
+!s100 nMk[zTW:SJNY;d@P7fa161
+R8
+32
+R94
+!i10b 1
+R95
+R147
+R148
+!i113 1
+R13
+R14
+Econtrolunit
+Z151 w1714085096
+R2
+R3
+R4
+R5
+R0
+Z152 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/6-ControlUnit/ControlUnit.vhd
+Z153 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/6-ControlUnit/ControlUnit.vhd
+l0
+L26
+VfbhXg9Gc7RfOdd0;2hnZX3
+!s100 oB153cVAfj40]4k3OaFh=2
+R8
+32
+R94
+!i10b 1
+R95
+Z154 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/6-ControlUnit/ControlUnit.vhd|
+Z155 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/6-ControlUnit/ControlUnit.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R141
+R142
+R143
+R144
+R150
+Z156 DEx4 work 18 microprogrammemory 0 22 7z0k5<5I^NWzLToOK]<Yd1
+R2
+R3
+R4
+R5
+Z157 DEx4 work 11 controlunit 0 22 fbhXg9Gc7RfOdd0;2hnZX3
+l88
+L63
+VMi>Eij6EC160D_1UP07e[2
+!s100 6;UOb2oFIBo@:okD0z]I50
+R8
+32
+R94
+!i10b 1
+R95
+R154
+R155
+!i113 1
+R13
+R14
+Ecoretestprotocol
+Z158 w1713998259
+R79
+R3
+R2
+R4
+R5
+R0
+Z159 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/Testbench/2-Core/CoreTestProtocol.vhd
+Z160 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/Testbench/2-Core/CoreTestProtocol.vhd
+l0
+L22
+VWG[N77XV9VKPe@DdT=7nG3
+!s100 3RTKRlESOgMb@QUIKz0bB0
+R8
+32
+R70
+!i10b 1
+R71
+Z161 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/Testbench/2-Core/CoreTestProtocol.vhd|
+Z162 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/Testbench/2-Core/CoreTestProtocol.vhd|
+!i113 1
+R13
+R14
+Acoretestprotocolarch
+R85
+R79
+R3
+R2
+R4
+R5
+DEx4 work 16 coretestprotocol 0 22 WG[N77XV9VKPe@DdT=7nG3
+l42
+L25
+VEKzcMg=[Y6j<]=e23??HW3
+!s100 I_@QLgYAlHFY?ChQh`zcA2
+R8
+32
+R70
+!i10b 1
+R71
+R161
+R162
+!i113 1
+R13
+R14
+Edatacache
+Z163 w1712773558
+R26
+R2
+R3
+R4
+R5
+R0
+Z164 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/DataCache.vhd
+Z165 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/DataCache.vhd
+l0
+L27
+VFcg=n2HU5e?ME<I:dO@Jj0
+!s100 kEmc<HiNhf?Jd32z[`fac2
+R8
+32
+R29
+!i10b 1
+R30
+Z166 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/DataCache.vhd|
+Z167 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/DataCache.vhd|
+!i113 1
+R13
+R14
+Amainarch
+Z168 DEx4 work 15 datamemoryslice 0 22 5LRIGo1B6`^g1oC70BTde0
+R122
+Z169 DEx4 work 12 selectlesser 0 22 J[niQkf_;VJBEcBJ2;UlG3
+R26
+R2
+R3
+R4
+R5
+R115
+l72
+L53
+VB3ahEiKFHCK`U9g;6fCGn2
+!s100 OlEoOcPF7nRZRVeWb9OHQ2
+R8
+32
+R29
+!i10b 1
+R30
+R166
+R167
+!i113 1
+R13
+R14
+Edataforwardingunit
+Z170 w1714782028
+R2
+R3
+R4
+R5
+R0
+Z171 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/8-DataForwardingUnit/DataForwardingUnit.vhd
+Z172 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/8-DataForwardingUnit/DataForwardingUnit.vhd
+l0
+L26
+VNkEMl69O0Q45B00?TbcU`3
+!s100 m0Lo`YTPZRFz2<ng8dTh_1
+R8
+32
+R94
+!i10b 1
+R95
+Z173 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/8-DataForwardingUnit/DataForwardingUnit.vhd|
+Z174 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/8-DataForwardingUnit/DataForwardingUnit.vhd|
+!i113 1
+R13
+R14
+Amainarch
+Z175 DEx4 work 23 writebackselectionblock 0 22 3_mN>7jL44nOb2WHQ<c9f2
+R2
+R3
+R4
+R5
+Z176 DEx4 work 18 dataforwardingunit 0 22 NkEMl69O0Q45B00?TbcU`3
+l91
+L50
+VBXbFXWjbz2>^z^EkJC33X2
+!s100 CJD=2]hM_H@E>coMJ<<Ug3
+R8
+32
+R94
+!i10b 1
+R95
+R173
+R174
+!i113 1
+R13
+R14
+Edatamemoryslice
+Z177 w1712783524
+R26
+R2
+R3
+R4
+R5
+R0
+Z178 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/DataMemorySlice.vhd
+Z179 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/DataMemorySlice.vhd
+l0
+L27
+V5LRIGo1B6`^g1oC70BTde0
+!s100 VmZ:AbTd?8P5laeZ==SZ32
+R8
+32
+R29
+!i10b 1
+R30
+Z180 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/DataMemorySlice.vhd|
+Z181 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/DataMemorySlice.vhd|
+!i113 1
+R13
+R14
+Amainarch
+Z182 DEx4 work 17 linearratecounter 0 22 ;dNc13ch0XMZQ5n8P=c`=2
+R33
+R26
+R2
+R3
+R4
+R5
+R168
+l72
+L56
+V]K9[=gn6@PB5lTfE`L9b53
+!s100 >5fl9Fbd>NHY_16iN?Hm12
+R8
+32
+R29
+!i10b 1
+R30
+R180
+R181
+!i113 1
+R13
+R14
+Edecodestage
+Z183 w1713308638
+R2
+R3
+R4
+R5
+R0
+Z184 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/DecodeStage.vhd
+Z185 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/DecodeStage.vhd
+l0
+L26
+V_bg_=lUhOMU6oQOnHlFi01
+!s100 a:=DD6L>QfTD`]c5ci>CN3
+R8
+32
+R94
+!i10b 1
+R95
+Z186 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/DecodeStage.vhd|
+Z187 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/DecodeStage.vhd|
+!i113 1
+R13
+R14
+Amainarchitecture
+Z188 DEx4 work 26 decodestagetoregisterstage 0 22 N`6;A;zgDdOB^JKTSX5bo0
+Z189 DEx4 work 14 programcounter 0 22 cc6Tfz2>OHZQFnFifMSLF3
+Z190 DEx4 work 23 immediateselectionblock 0 22 3QY^Pcn3N_6UE<B>iVFO@0
+Z191 DEx4 work 19 instructionregister 0 22 o<mQ0NDnU:UJ_@b]`jI?P1
+R2
+R3
+R4
+R5
+Z192 DEx4 work 11 decodestage 0 22 _bg_=lUhOMU6oQOnHlFi01
+l68
+L56
+VFoIWRCAOFf=<Bb5;godET0
+!s100 ZANjVLSXFlAmGN[=3e;P40
+R8
+32
+R94
+!i10b 1
+R95
+R186
+R187
+!i113 1
+R13
+R14
+Edecodestagetoregisterstage
+Z193 w1713991609
+R2
+R3
+R4
+R5
+R0
+Z194 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/DecodeStageToRegisterStage.vhd
+Z195 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/DecodeStageToRegisterStage.vhd
+l0
+L26
+VN`6;A;zgDdOB^JKTSX5bo0
+!s100 VXjQ8XW:nWLMkzXO[I8dP0
+R8
+32
+R94
+!i10b 1
+R95
+Z196 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/DecodeStageToRegisterStage.vhd|
+Z197 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/DecodeStageToRegisterStage.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R3
+R4
+R5
+R188
+l55
+L45
+V`6XhYYLiljNg6]YRbGELb2
+!s100 0N7]VZzo<4iIWMB[E57b>2
+R8
+32
+R94
+!i10b 1
+R95
+R196
+R197
+!i113 1
+R13
+R14
+Efulladderhalfadder
+Z198 w1691426416
+R4
+R5
+R0
+Z199 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/FullAdderHalfAdder.vhd
+Z200 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/FullAdderHalfAdder.vhd
+l0
+L24
+VDHU:<L930hD=n?4Tl93<91
+!s100 ;NojKPDHcf;Dh6nHLO4B]1
+R8
+32
+R9
+!i10b 1
+R10
+Z201 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/FullAdderHalfAdder.vhd|
+Z202 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/FullAdderHalfAdder.vhd|
+!i113 1
+R13
+R14
+Ahalfadder
+R4
+R5
+R15
+l61
+L59
+VFHX]^HX_n`5ATZ6_@eD@31
+!s100 2Q6[_9Oa[9Z;=IXa1OU?z0
+R8
+32
+R9
+!i10b 1
+R10
+R201
+R202
+!i113 1
+R13
+R14
+Afulladder
+R4
+R5
+R15
+l45
+L41
+VS>B0Ji>:R[`i<6Vahkkn81
+!s100 nzW3IdoAORBfm^H=R<>^>1
+R8
+32
+R9
+!i10b 1
+R10
+R201
+R202
+!i113 1
+R13
+R14
+Egeneralpurposeregisters
+Z203 w1698689135
+R3
+R2
+R4
+R5
+R0
+Z204 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/GeneralPurposeRegisters.vhd
+Z205 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/GeneralPurposeRegisters.vhd
+l0
+L27
+Vh2R<jN=E6h>I;`[0?=4HS0
+!s100 Z[1>zcWkL6D`kPolOoW7N3
+R8
+32
+R20
+!i10b 1
+R21
+Z206 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/GeneralPurposeRegisters.vhd|
+Z207 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/GeneralPurposeRegisters.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R3
+R2
+R4
+R5
+Z208 DEx4 work 23 generalpurposeregisters 0 22 h2R<jN=E6h>I;`[0?=4HS0
+l73
+L51
+VUh410mN9Z<zgZ=]3IP@hP2
+!s100 iRf>KSJQf:cCC];i@2_k>2
+R8
+32
+R20
+!i10b 1
+R21
+R206
+R207
+!i113 1
+R13
+R14
+Egralcounter
+Z209 w1699306195
+R2
+R4
+R5
+R0
+Z210 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/9-OtherBlocks/GralCounter.vhd
+Z211 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/9-OtherBlocks/GralCounter.vhd
+l0
+L25
+VHACL9BFTEBP5C7?g6=b@]3
+!s100 hPU<?=7S?;0nHjW6X;A`m1
+R8
+32
+R9
+!i10b 1
+R10
+Z212 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/9-OtherBlocks/GralCounter.vhd|
+Z213 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/9-OtherBlocks/GralCounter.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R4
+R5
+R149
+l49
+L41
+Vm>FQZh9T4llhTFeT;;Vm;1
+!s100 ;F0@2FjfAcT]n2@lao;2S2
+R8
+32
+R9
+!i10b 1
+R10
+R212
+R213
+!i113 1
+R13
+R14
+Egrallimcounter
+Z214 w1704166012
+R2
+R4
+R5
+R0
+Z215 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/GralLimCounter.vhd
+Z216 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/GralLimCounter.vhd
+l0
+L25
+V_BZc3O6MDNkbTgQKfN>461
+!s100 lh6l^^Mief2JIJdmDOjmo0
+R8
+32
+R29
+!i10b 1
+R30
+Z217 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/GralLimCounter.vhd|
+Z218 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/GralLimCounter.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R4
+R5
+R39
+l52
+L42
+V[27iOjDJ]nWI0;CMFh0Xd1
+!s100 L8E]lSfTBMi:jPE3^ER4Z2
+R8
+32
+R29
+!i10b 1
+R30
+R217
+R218
+!i113 1
+R13
+R14
+Eimmediateselectionblock
+Z219 w1714076260
+R2
+R3
+R4
+R5
+R0
+Z220 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/ImmediateSelectionBlock.vhd
+Z221 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/ImmediateSelectionBlock.vhd
+l0
+L26
+V3QY^Pcn3N_6UE<B>iVFO@0
+!s100 d46B<`I6nkaX]J^ZdDbna0
+R8
+32
+R94
+!i10b 1
+R95
+Z222 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/ImmediateSelectionBlock.vhd|
+Z223 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/ImmediateSelectionBlock.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R3
+R4
+R5
+R190
+l57
+L45
+VmW9VM=;KQnc[n5on<P]El2
+!s100 A;fVAZ?aN8zWJ:;=S6Goo0
+R8
+32
+R94
+!i10b 1
+R95
+R222
+R223
+!i113 1
+R13
+R14
+Einstructioncache
+Z224 w1712339850
+R26
+R2
+R3
+R4
+R5
+R0
+Z225 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/InstructionCache.vhd
+Z226 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/InstructionCache.vhd
+l0
+L27
+V9]jJM9e:mjYo4`Re>bCVl3
+!s100 2Hk4HjzE1k=3b=57bL91h2
+R8
+32
+R29
+!i10b 1
+R30
+Z227 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/InstructionCache.vhd|
+Z228 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/InstructionCache.vhd|
+!i113 1
+R13
+R14
+Amainarch
+Z229 DEx4 work 22 instructionmemoryslice 0 22 ImN?4KmR8^Wc8[0i?kfN<3
+R122
+R169
+R26
+R2
+R3
+R4
+R5
+R116
+l62
+L47
+VNeS:??1J9FjBWI[G39WTc2
+!s100 hECl:PnD81kdTCkhYbAN=1
+R8
+32
+R29
+!i10b 1
+R30
+R227
+R228
+!i113 1
+R13
+R14
+Einstructionmemoryslice
+Z230 w1712733400
+R26
+R2
+R3
+R4
+R5
+R0
+Z231 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/InstructionMemorySlice.vhd
+Z232 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/InstructionMemorySlice.vhd
+l0
+L27
+VImN?4KmR8^Wc8[0i?kfN<3
+!s100 7`HAijWzWh81N1cL0gXKi2
+R8
+32
+R29
+!i10b 1
+R30
+Z233 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/InstructionMemorySlice.vhd|
+Z234 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/InstructionMemorySlice.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R182
+R33
+R26
+R2
+R3
+R4
+R5
+R229
+l62
+L51
+VlfMl?kSbA7T45HEWN2NUT2
+!s100 ECN=WkccHTAeEoAjM?<?>1
+R8
+32
+R29
+!i10b 1
+R30
+R233
+R234
+!i113 1
+R13
+R14
+Einstructionregister
+Z235 w1714076054
+R2
+R3
+R4
+R5
+R0
+Z236 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/InstructionRegister.vhd
+Z237 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/InstructionRegister.vhd
+l0
+L26
+Vo<mQ0NDnU:UJ_@b]`jI?P1
+!s100 XM@YaT@ilf1U]>;0V>IiS3
+R8
+32
+R94
+!i10b 1
+R95
+Z238 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/InstructionRegister.vhd|
+Z239 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/InstructionRegister.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R3
+R4
+R5
+R191
+l47
+L45
+VeNCO_ENB`EVGggZ5]fXKG1
+!s100 =YCB_0O@P<JQ1hXG9MUlW3
+R8
+32
+R94
+!i10b 1
+R95
+R238
+R239
+!i113 1
+R13
+R14
+Elinearratecounter
+Z240 w1712294535
+R26
+R3
+R2
+R4
+R5
+R0
+Z241 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/LinearRateCounter.vhd
+Z242 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/LinearRateCounter.vhd
+l0
+L28
+V;dNc13ch0XMZQ5n8P=c`=2
+!s100 8Xe3B6;e_ZECHOLcJaiIH3
+R8
+32
+R29
+!i10b 1
+R30
+Z243 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/LinearRateCounter.vhd|
+Z244 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/LinearRateCounter.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R24
+R26
+R3
+R2
+R4
+R5
+R182
+l65
+L45
+VQ^WaW0`g>;A3enbVDgm9J1
+!s100 3^hbQ6d<?8zkL:YPG7A`k2
+R8
+32
+R29
+!i10b 1
+R30
+R243
+R244
+!i113 1
+R13
+R14
+Elocalclockmodule
+Z245 w1696264622
+R2
+R3
+R4
+R5
+R0
+Z246 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/9-OtherBlocks/LocalClockModule.vhd
+Z247 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/9-OtherBlocks/LocalClockModule.vhd
+l0
+L26
+Va]YZzMJF@;hnmW8cE5H1N0
+!s100 8UcK^_NX0SE]OKV^Lb0I60
+R8
+32
+R94
+!i10b 1
+R95
+Z248 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/9-OtherBlocks/LocalClockModule.vhd|
+Z249 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/9-OtherBlocks/LocalClockModule.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R3
+R4
+R5
+Z250 DEx4 work 16 localclockmodule 0 22 a]YZzMJF@;hnmW8cE5H1N0
+l44
+L42
+V8>>aE>IQ21nEL[2GeEW_:2
+!s100 ?[khhF;agS<m?l1:ciiFF3
+R8
+32
+R94
+!i10b 1
+R95
+R248
+R249
+!i113 1
+R13
+R14
+Emainmemory
+Z251 w1712707056
+R2
+R3
+R4
+R5
+R0
+Z252 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/3-Memory/MainMemory.vhd
+Z253 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/3-Memory/MainMemory.vhd
+l0
+L26
+VTFSbB0T=8IRmN?>L13dkW3
+!s100 HeDXfECIU8J?oI0>_zkI>3
+R8
+32
+R70
+!i10b 1
+R71
+Z254 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/3-Memory/MainMemory.vhd|
+Z255 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/3-Memory/MainMemory.vhd|
+!i113 1
+R13
+R14
+Aipinstantiation
+R2
+R3
+R4
+R5
+R84
+l75
+L47
+V5:JVYSEUSj;HfZA?<iXn?2
+!s100 8Y;S;3m8fMlK]VZdG6l_31
+R8
+32
+R70
+!i10b 1
+R71
+R254
+R255
+!i113 1
+R13
+R14
+Ememorydataregisterandmemoryaddressregister
+Z256 w1713649054
+R2
+R3
+R4
+R5
+R0
+Z257 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/4-MemoryStage/MemoryDataRegisterAndMemoryAddressRegister.vhd
+Z258 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/4-MemoryStage/MemoryDataRegisterAndMemoryAddressRegister.vhd
+l0
+L26
+VzRY:`bOMWh8nnojmKhAPZ2
+!s100 oVg23C_EelG3RnAW?TnUU0
+R8
+32
+R9
+!i10b 1
+R10
+Z259 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/4-MemoryStage/MemoryDataRegisterAndMemoryAddressRegister.vhd|
+Z260 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/4-MemoryStage/MemoryDataRegisterAndMemoryAddressRegister.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R3
+R4
+R5
+Z261 DEx4 work 42 memorydataregisterandmemoryaddressregister 0 22 zRY:`bOMWh8nnojmKhAPZ2
+l59
+L49
+V9h7P[4ZSfoc8HNlCP7Loi3
+!s100 ^^EiTT5UjS9mDfD=0<J[:3
+R8
+32
+R9
+!i10b 1
+R10
+R259
+R260
+!i113 1
+R13
+R14
+Ememorystage
+Z262 w1711574075
+R2
+R3
+R4
+R5
+R0
+Z263 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/4-MemoryStage/MemoryStage.vhd
+Z264 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/4-MemoryStage/MemoryStage.vhd
+l0
+L26
+V3A@dl[oH<8Q=kKDgRdYS@2
+!s100 jKTk=j`BI4Hg9M:E:Ra;Q3
+R8
+32
+R20
+!i10b 1
+R21
+Z265 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/4-MemoryStage/MemoryStage.vhd|
+Z266 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/4-MemoryStage/MemoryStage.vhd|
+!i113 1
+R13
+R14
+Amainarchitecture
+Z267 DEx4 work 27 memorystagetowritebackstage 0 22 ^8]T>hUNWgc1gH_CCeL3@3
+R261
+R2
+R3
+R4
+R5
+Z268 DEx4 work 11 memorystage 0 22 3A@dl[oH<8Q=kKDgRdYS@2
+l59
+L54
+VB0ab0W9X?IYPVFFgiRQi41
+!s100 EP3R:[L1L_kg]@2hlz=Rd2
+R8
+32
+R20
+!i10b 1
+R21
+R265
+R266
+!i113 1
+R13
+R14
+Ememorystagetowritebackstage
+Z269 w1699032674
+R2
+R3
+R4
+R5
+R0
+Z270 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/4-MemoryStage/MemoryStageToWriteBackStage.vhd
+Z271 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/4-MemoryStage/MemoryStageToWriteBackStage.vhd
+l0
+L26
+V^8]T>hUNWgc1gH_CCeL3@3
+!s100 oCh7m_a@G9^X3Fh4T76>T2
+R8
+32
+R20
+!i10b 1
+R10
+Z272 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/4-MemoryStage/MemoryStageToWriteBackStage.vhd|
+Z273 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/4-MemoryStage/MemoryStageToWriteBackStage.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R3
+R4
+R5
+R267
+l55
+L45
+VemIk2<KDJIIzD?nC<iD8A1
+!s100 kZfcSDSh_Kz@[VaSLXY=V0
+R8
+32
+R20
+!i10b 1
+R10
+R272
+R273
+!i113 1
+R13
+R14
+Emicroprogrammemory
+Z274 w1713412368
+R2
+R3
+R4
+R5
+R0
+Z275 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/6-ControlUnit/MicroProgramMemory.vhd
+Z276 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/6-ControlUnit/MicroProgramMemory.vhd
+l0
+L26
+V7z0k5<5I^NWzLToOK]<Yd1
+!s100 @9_Tf>cGb8CMglYKZzc6I1
+R8
+32
+R94
+!i10b 1
+R95
+Z277 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/6-ControlUnit/MicroProgramMemory.vhd|
+Z278 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/6-ControlUnit/MicroProgramMemory.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R3
+R4
+R5
+R156
+l68
+L45
+VD>CN4NMgn>gl^jgi:iNkB1
+!s100 ;CanTf2lFX94ZMAGPBJX52
+R8
+32
+R94
+!i10b 1
+R95
+R277
+R278
+!i113 1
+R13
+R14
+Emultiplier
+Z279 w1691729918
+R46
+R2
+R3
+R4
+R5
+R0
+Z280 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/Multiplier.vhd
+Z281 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/Multiplier.vhd
+l0
+L27
+VJ:7X3n@K;lTofRNmWUo=C2
+!s100 zB`FhHOVi84<CzijizGB13
+R8
+32
+R20
+!i10b 1
+R21
+Z282 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/Multiplier.vhd|
+Z283 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/Multiplier.vhd|
+!i113 1
+R13
+R14
+Afullcombinatory
+R15
+R16
+Z284 DEx4 work 14 partialproduct 0 22 Hk<QL2oY62GBPHTn;mA`43
+R46
+R2
+R3
+R4
+R5
+R65
+l128
+L44
+VdEVBREKa_>2AXC?m:PG?K0
+!s100 Dh>EI@S`gWfbVJ0b>THzH3
+R8
+32
+R20
+!i10b 1
+R21
+R282
+R283
+!i113 1
+R13
+R14
+Epartialproduct
+Z285 w1689380900
+R46
+R2
+R3
+R4
+R5
+R0
+Z286 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/PartialProduct.vhd
+Z287 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/PartialProduct.vhd
+l0
+L27
+VHk<QL2oY62GBPHTn;mA`43
+!s100 Ilf8BgcKA991:6YJWFdMS1
+R8
+32
+R20
+!i10b 1
+R21
+Z288 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/PartialProduct.vhd|
+Z289 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/PartialProduct.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R46
+R2
+R3
+R4
+R5
+R284
+l46
+L42
+VP4aR`4UC3X8NSjR7ikcR@0
+!s100 DnoIfAVPMh_]S76o_LE^N2
+R8
+32
+R20
+!i10b 1
+R21
+R288
+R289
+!i113 1
+R13
+R14
+Pprocessorpackage
+R3
+R2
+R4
+R5
+Z290 w1711564063
+R0
+Z291 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/ProcessorPackage.vhd
+Z292 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/ProcessorPackage.vhd
+l0
+L20
+V@RM9nBWS1RF0jRIN9TQiT3
+!s100 SFoZWNJKPNh<2R<;I6[zS0
+R8
+32
+R9
+!i10b 1
+R10
+Z293 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/ProcessorPackage.vhd|
+Z294 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/0-Packages/ProcessorPackage.vhd|
+!i113 1
+R13
+R14
+Bbody
+R79
+R3
+R2
+R4
+R5
+l0
+L34
+VDRXcjh1?e1Z[Bl`BDVf[m1
+!s100 F3:hE8IbN[VEP>580k4C42
+R8
+32
+R9
+!i10b 1
+R10
+R293
+R294
+!i113 1
+R13
+R14
+Eprogramcounter
+Z295 w1714076224
+R3
+R2
+R4
+R5
+R0
+Z296 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/ProgramCounter.vhd
+Z297 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/ProgramCounter.vhd
+l0
+L27
+Vcc6Tfz2>OHZQFnFifMSLF3
+!s100 fmTTcgSd>f:i2L11>oze82
+R8
+32
+R94
+!i10b 1
+R95
+Z298 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/ProgramCounter.vhd|
+Z299 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/1-DecodeStage/ProgramCounter.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R16
+R3
+R2
+R4
+R5
+R189
+l73
+L54
+V_:;5HkYdKV]@WgA02oMQK3
+!s100 ONo`JNIk8PCbjF=6nohBe0
+R8
+32
+R94
+!i10b 1
+R95
+R298
+R299
+!i113 1
+R13
+R14
+Eram2port
+Z300 w1717006720
+Z301 DPx9 altera_mf 20 altera_mf_components 0 22 Sn8Ol<dGSW99iM6NfOU>g1
+R4
+R5
+R0
+Z302 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/3-Memory/RamComponent/Ram2Port.vhd
+Z303 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/3-Memory/RamComponent/Ram2Port.vhd
+l0
+L42
+VLomkUhF=?Ako_OYZIRDz51
+!s100 4f`1QkkOP3:;8<VA3hgK12
+R8
+32
+R70
+!i10b 1
+R71
+Z304 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/3-Memory/RamComponent/Ram2Port.vhd|
+Z305 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/3-Memory/RamComponent/Ram2Port.vhd|
+!i113 1
+R13
+R14
+Asyn
+R301
+R4
+R5
+DEx4 work 8 ram2port 0 22 LomkUhF=?Ako_OYZIRDz51
+l65
+L60
+VhA?a0gde7NT6Ri^[k[c@X1
+!s100 VD62=Wo`E^2_5QOGY=[ih2
+R8
+32
+R70
+!i10b 1
+R71
+R304
+R305
+!i113 1
+R13
+R14
+Eregisterreadstage
+Z306 w1713514163
+R2
+R3
+R4
+R5
+R0
+Z307 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/RegisterReadStage.vhd
+Z308 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/RegisterReadStage.vhd
+l0
+L26
+VaN4N>ATIY:L80:z>m6kB71
+!s100 D;6J>HfX2N6M>fX6:;PH<2
+R8
+32
+R94
+!i10b 1
+R21
+Z309 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/RegisterReadStage.vhd|
+Z310 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/RegisterReadStage.vhd|
+!i113 1
+R13
+R14
+Amainarchitecture
+Z311 DEx4 work 23 registerstagetoalustage 0 22 ]]VF0gl1<dd8ThYNoaZc[0
+R139
+R133
+R208
+R2
+R3
+R4
+R5
+Z312 DEx4 work 17 registerreadstage 0 22 aN4N>ATIY:L80:z>m6kB71
+l73
+L65
+V<eIV]zDAgmM]cjccA6IGS3
+!s100 U4cFn<jd[DAXUPWjPUK[]3
+R8
+32
+R94
+!i10b 1
+R21
+R309
+R310
+!i113 1
+R13
+R14
+Eregisterstagetoalustage
+Z313 w1713991004
+R2
+R3
+R4
+R5
+R0
+Z314 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/RegisterStageToAluStage.vhd
+Z315 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/RegisterStageToAluStage.vhd
+l0
+L26
+V]]VF0gl1<dd8ThYNoaZc[0
+!s100 OXjJ>aDl`lJn6ZXj6eI1I2
+R8
+32
+R20
+!i10b 1
+R21
+Z316 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/RegisterStageToAluStage.vhd|
+Z317 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/2-RegisterReadStage/RegisterStageToAluStage.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R3
+R4
+R5
+R311
+l55
+L45
+Vi4T52eog;<MEEeUlMzPB]1
+!s100 8NIMal@ATjoH2`hQWh7=J2
+R8
+32
+R20
+!i10b 1
+R21
+R316
+R317
+!i113 1
+R13
+R14
+Eriscvcore
+Z318 w1713989467
+R2
+R3
+R4
+R5
+R0
+Z319 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/RiscVCore.vhd
+Z320 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/RiscVCore.vhd
+l0
+L26
+V1NBz:<9nR_E=P45GN47Bn1
+!s100 QCiATHY;Q]c[<g<H5;AZ<3
+R8
+32
+R29
+!i10b 1
+R30
+Z321 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/RiscVCore.vhd|
+Z322 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/RiscVCore.vhd|
+!i113 1
+R13
+R14
+Amainarchitecture
+R250
+R176
+R104
+R157
+Z323 DEx4 work 14 writebackstage 0 22 LgbRlT>kjFA8D7<R1Go9;0
+R268
+R54
+R312
+R192
+R2
+R3
+R4
+R5
+R76
+l119
+L50
+VoM=8=`^`=VZ>8Zb2SzGQA2
+!s100 No9N^13ik;<l_1AKT91cD0
+R8
+32
+R29
+!i10b 1
+R30
+R321
+R322
+!i113 1
+R13
+R14
+Eselectlesser
+Z324 w1703968268
+R26
+R2
+R3
+R4
+R5
+R0
+Z325 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/SelectLesser.vhd
+Z326 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/SelectLesser.vhd
+l0
+L27
+VJ[niQkf_;VJBEcBJ2;UlG3
+!s100 dbTogTTZ@H3jEckz`XhVz3
+R8
+32
+R29
+!i10b 1
+R30
+Z327 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/SelectLesser.vhd|
+Z328 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/2-Cache/SelectLesser.vhd|
+!i113 1
+R13
+R14
+Aselectlesserarch
+R26
+R2
+R3
+R4
+R5
+R169
+l55
+L42
+Va<azAiH_U7J_Eeg3f?C;>1
+!s100 U8gPlVoZW7HGb^gSHkKc82
+R8
+32
+R29
+!i10b 1
+R30
+R327
+R328
+!i113 1
+R13
+R14
+Eshifter
+Z329 w1695852525
+R2
+R3
+R4
+R5
+R0
+Z330 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/Shifter.vhd
+Z331 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/Shifter.vhd
+l0
+L26
+V]zU`N;GfPJA^e6GhKnaY61
+!s100 K@W<F;;m:fdfB=_H_FL:F1
+R8
+32
+R20
+!i10b 1
+R21
+Z332 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/Shifter.vhd|
+Z333 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/3-AluStage/Shifter.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R3
+R4
+R5
+R66
+l50
+L42
+VOCi2J@K4hQVFn>2<AcQM=2
+!s100 ^[z2ZG:1R<3[8bFK1e0Yg2
+R8
+32
+R20
+!i10b 1
+R21
+R332
+R333
+!i113 1
+R13
+R14
+Ewritebackselectionblock
+Z334 w1698700763
+R2
+R3
+R4
+R5
+R0
+Z335 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/5-WriteBackStage/WriteBackSelectionBlock.vhd
+Z336 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/5-WriteBackStage/WriteBackSelectionBlock.vhd
+l0
+L26
+V3_mN>7jL44nOb2WHQ<c9f2
+!s100 nW4A8bBLX^6Lc`mgW0NgG3
+R8
+32
+R9
+!i10b 1
+R10
+Z337 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/5-WriteBackStage/WriteBackSelectionBlock.vhd|
+Z338 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/5-WriteBackStage/WriteBackSelectionBlock.vhd|
+!i113 1
+R13
+R14
+Amainarch
+R2
+R3
+R4
+R5
+R175
+l50
+L46
+VQ:ezjYj>AW`Z:ZGi;MPg03
+!s100 Pog5GQ2H1eTnN@Cf8CD]W1
+R8
+32
+R9
+!i10b 1
+R10
+R337
+R338
+!i113 1
+R13
+R14
+Ewritebackstage
+Z339 w1696264349
+R2
+R3
+R4
+R5
+R0
+Z340 8C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/5-WriteBackStage/WriteBackStage.vhd
+Z341 FC:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/5-WriteBackStage/WriteBackStage.vhd
+l0
+L26
+VLgbRlT>kjFA8D7<R1Go9;0
+!s100 nL48X@O?3kc7?;N6[8EQa0
+R8
+32
+R9
+!i10b 1
+R10
+Z342 !s90 -reportprogress|300|-work|work|C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/5-WriteBackStage/WriteBackStage.vhd|
+Z343 !s107 C:/Users/etria/OneDrive/DOCUMENTOS/Academic/Master/3Semester/Thesis/3. Implementation/4. ArkI-Processor/VHDL/1-Core/5-WriteBackStage/WriteBackStage.vhd|
+!i113 1
+R13
+R14
+Amainarchitecture
+R175
+R2
+R3
+R4
+R5
+R323
+l45
+L43
+VdQ[To?lX?oSGo`onN0m>i2
+!s100 kOZI7F>coP7LanJgzEd1<2
+R8
+32
+R9
+!i10b 1
+R10
+R342
+R343
+!i113 1
+R13
+R14
